@@ -20,19 +20,19 @@ This is a personal finance dashboard web application designed to help you manage
   - RESTful API for handling transactions
   - In-memory data storage
 
-## Setup Instructions
+## Setup Instructions (in terminal)
 
 ### Prerequisites
 
 - Node.js and npm installed on your machine
 - Git installed on your machine
 
-#### Backend Setup (terminal):
+#### Backend Setup:
 - cd .../backend
 - npm install
 - npm start
 
-#### Frontend Setup (terminal):
+#### Frontend Setup:
 - cd .../frontend
 - npm install
 - npm start
