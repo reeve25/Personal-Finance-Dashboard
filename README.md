@@ -27,13 +27,14 @@ This is a personal finance dashboard web application designed to help you manage
 - Node.js and npm installed on your machine
 - Git installed on your machine
 
-#### Backend Setup:
+#### Backend Setup (terminal):
 - cd .../backend
 - npm install
 - npm start
 
-#### Frontend Setup:
+#### Frontend Setup (terminal):
 - cd .../frontend
 - npm install
 - npm start
+  - should open app in browser
 
